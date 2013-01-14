@@ -6,32 +6,6 @@ permalink: /events/
 
 ## Upcoming Regional Events
 
-### January 5-6: Kentucky State Badminton Tournament
-
-- Location: University of Louisville 
-- Events: Mens and Womens Singles, Doubles & Mixed – A,B,C, Division / Senior Men &  Womens Singles, Doubles & Mixed – 40 - 59 / Senior Men & Womens Singles, Doubles & Mixed – 60-80 
-- Entry Fees: $20 per event 
-- Schedule: Registration begins January 5 at 8 AM
-    - 9 AM: Doubles
-    - 1 PM: Singles
-    - 4 PM: Mixed
-    - All matches will finish on Saturday if possible
-- Registration: [Word Document](http://xa.yimg.com/kq/groups/14650699/1139101849/name/ENTRY_FORM_2013_2nd_Page%2Edoc) sent by mail/fax/email/phone 
-- Registration deadline: December 26
-
-### January 11-13: D.C. Open
-
-- Location: School of Public Health, University of Maryland, College Park 
-- Events: A/B, C/D, and S/S-con (seniors, 40+) level in all Singles, Doubles and Mixed events (with sufficient entries). Seniors must be 40 as of January 11, 2012. 
-- Entry Fees: $35 for first event, $25 for additional events. USAB membership required 
-- Schedule:
-    - Fri, January 11, 2012 4:00 pm – 11:00 pm MS, WS (A/B and C/D) 
-    - Sat, January 12, 2012 9:00 am – 11:00 pm MD, WD, XD (A/B and C/D) and All Senior event (MS, WS, MD, WD, XD, Consolation)
-    - Sun, January 13, 2012 9:00 am – 3:00 pm Remaining matches and Finals (include consolation finals)
-- Registration: [Online](http://www.tournamentsoftware.com/onlineentry/onlineentry.aspx?id=FD074BFF-E6F6-42C9-9721-EC9E78EAF95F) 
-- Registration deadline: December 31 
-- For more information, head to the [tournament site](http://www.tournamentsoftware.com/sport/tournament.aspx?id=FD074BFF-E6F6-42C9-9721-EC9E78EAF95F).
-
 ### January 15-19: U.S Senior International
 
 - Location: Miami, FL 
