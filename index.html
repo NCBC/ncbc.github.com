@@ -1,0 +1,49 @@
+---
+layout: default
+title: Home
+---
+
+<div id="main" class="grid_9">
+	<h3 style="margin-top: 8px; margin-bottom: -10px; text-align: center;">Latest News:</h3>
+	<p>{% for post in site.posts limit:4 %}
+	<strong>{{ post.date | date: "%b %d" }}:</strong> <a href="{{ post.url }}">{{ post.title }}</a> <br />
+		{% endfor %}</p>
+	<p><a href="http://ncbadminton.org/news/2012/09/nc-open-winners/"><img src="images/ncopenpost.jpg"></img></a></p>
+	<p><a href="/video/"><img src="images/video3.jpg"></img></a></p>	
+</div>
+
+<div id="sidebar" class="grid_3">
+
+	<h2>Schedule:</h2>
+
+	<p><strong>Sport 2 Sport</strong> <br />
+	<strong><small>*New schedule and fees (<a href="/locations">details</a>)*</small></strong> <br />
+	Sat 6 - 10 PM <br />
+	Sun 9 AM - 2 PM <br /></p>
+
+	<p><strong>Netsports</strong> <br />
+	Tues 6 - 8 AM <br />
+	Thurs 6 - 8 AM <br /></p>
+
+	<p><strong>Optimist Park</strong> <br />
+	Thurs 10:30 AM - 12:30 PM<br /></p>
+
+	<p><strong>Bond Park</strong> <br />
+	Call for schedule<br />
+	(919) 462-3970 <br /></p>
+	
+	<p><strong>UNC Chapel Hill</strong> <br />
+	Check <a href="http://badminton.web.unc.edu/calendar/">club calendar</a> or <a href="http://www.unc.edu/badminton/">website</a><br /></p>
+
+	<p><strong>Duke</strong> <br />
+	Call for schedule<br />
+	(919) 613-7489 <br /></p>
+
+
+	<h2>Social:</h2>
+	<p>
+		<a href="http://www.facebook.com/ncbcrtp">Facebook</a> <br />
+		<a href="http://www.meetup.com/badminton-51/">Meetup</a>
+	</p>
+	
+</div>

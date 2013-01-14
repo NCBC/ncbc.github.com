@@ -1,0 +1,12 @@
+# accessible as site.*
+title: "North Carolina Badminton Club"
+description: "North Carolina Badminton"
+url: "http://ncbadminton.org"
+files: "http://ncbadminton.org/files/"
+author: "NCBC"
+email: "site@ncbadminton.org"
+
+# pagination
+# paginate: 8
+lsi: false
+permalink: /news/:year/:month/:title/
