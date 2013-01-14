@@ -12,10 +12,10 @@ NCBC is ramping up its multimedia efforts, and we're getting started by sharing 
 <iframe width="640" height="360" src="http://www.youtube.com/embed/mn-A8Ed8NTY?feature=player_detailpage" frameborder="0"> </iframe>
 
 ### Women's Singles Final
-<iframe width="640" height="360" src="http://www.youtube.com/embed/n_0HiKsfByY?feature=player_detailpage" frameborder="0" allowfullscreen> </iframe>
+<iframe width="640" height="360" src="http://www.youtube.com/embed/n_0HiKsfByY?feature=player_detailpage" frameborder="0"> </iframe>
 
 ### Men's Doubles Final
-<iframe width="640" height="360" src="http://www.youtube.com/embed/GW6Ye4bAsng?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="http://www.youtube.com/embed/GW6Ye4bAsng?feature=player_detailpage" frameborder="0"> </iframe>
 
 ### Mixed Doubles Final
-<iframe width="640" height="360" src="http://www.youtube.com/embed/SPbbVOcfAMI?feature=player_detailpage" frameborder="0" allowfullscreen> </iframe>
+<iframe width="640" height="360" src="http://www.youtube.com/embed/SPbbVOcfAMI?feature=player_detailpage" frameborder="0"> </iframe>
