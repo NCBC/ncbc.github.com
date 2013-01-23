@@ -6,15 +6,14 @@ permalink: /events/
 
 ## Upcoming Regional Events
 
-### January 15-19: U.S Senior International
-
-- Location: Miami, FL 
-- Events: 35+, 40+, 45+, 50+, 55+, 60+, 65+, 70+, 75+, 80+. Players are eligible for an age group provided they are 35+, 40+, 45+ etc. years of age on January 1, 2013. 
-- Entry Fees: $30 per event + $10 administrative fee
-- Venue: Shula's Hotel and Golf Club, 6842 Maian Street, Miami Lakes, FL
-- Registration: [Online](http://tournamentsoftware.com/sport/tournament.aspx?id=A6A0ED64-057C-48AA-8B35-23ED5054E44F) 
-- Registration deadline: December 26 
-- For more information, head to the [tournament site](http://tournamentsoftware.com/sport/tournament.aspx?id=A6A0ED64-057C-48AA-8B35-23ED5054E44F).
+### February 9: Tennessee Badminton Open 2013
+- Location: University of Tennessee, Knoxville
+- Events: Open MS/WS/MD/WD/XD
+- Schedule: Registration at 8:00 AM, play from 9:00 AM - 7:00 PM
+- Entry Fees: $20 for 1 event, $35 for 2 events, $40 for 3 events
+- Registration: [Online](https://docs.google.com/spreadsheet/viewform?formkey=dGNyZ1BkaUZUdU1MSHJMSktRakpvT2c6MQ)
+- Registration deadline: Friday, February 1
+- For more information, head to the [event website](http://www.tennesseebadminton.com/events/tennessee-badminton-open-2013/) or [Facebook page](https://www.facebook.com/events/309728762461765/).
 
 <hr />
 
