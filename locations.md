@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Locations
+title: Where to Play
 permalink: /locations/
 ---
 
@@ -56,6 +56,12 @@ There are currently a number of locations for playing in the Triangle area:
 * International and Intramural clubs available 
 * Schedule: Call the Wilson Center front desk at 613-7489 or check the [online reservation system](http://recreation.duke.edu/facilities/make-a-reservation/) 
 * For more information, head to the [Duke Badminton website](http://people.ee.duke.edu/~qhliu/badminton.html)
+<hr />
+
+**Duke Center for Living**
+
+* 3475 Erwin Road, Durham, NC 27705 ([map](http://maps.google.com/maps?q=3475+Erwin+Road,+Durham,+NC+27705&client=safari&oe=UTF-8&hnear=3475+Erwin+Rd,+Durham,+North+Carolina+27705&gl=us&t=m&z=16))
+* 1 court available most Saturdays, call ahead to confirm: 919-660-6610
 <hr />
 
 **Lake Lynn Community Center (Begins 3/3/2013)** 
