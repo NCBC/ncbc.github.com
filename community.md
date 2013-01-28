@@ -34,8 +34,8 @@ The new [NC Badminton mailing list](http://groups.google.com/group/ncbadminton/)
 The mailing list is usually the first place to hear about late-breaking community news (gym closings, tournament results for club members playing at national tournaments, etc). Official NCBC announcements that are posted on this site are also sent to this list.
 
 <hr />
-<a id="vendors"> </a>
-## Vendors
+
+<h2><a id="vendors">Vendors</a></h2>  
 
 Need some badminton supplies? These vendors will get you the gear you need.
 
