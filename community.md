@@ -29,7 +29,9 @@ permalink: /community/
 
 ## Mailing List
 
-The [NC Badminton mailing list](http://sports.groups.yahoo.com/group/badminton_RTP_NC/) is the primary means of online communication for players. Looking for a doubles partner for an upcoming tournament, or someone to practice with? Hop on the list and get in touch! 
+The new [NC Badminton mailing list](http://groups.google.com/group/ncbadminton/) is the primary means of online communication for players. Looking for a doubles partner for an upcoming tournament, want someone to practice with, or just want to chat about badminton in North Carolina? Hop on the list and get in touch! Sign up via the [group website](http://groups.google.com/group/ncbadminton/) to interact using your Google account, or use the form below to sign up with your e-mail address (no Google account required):
+
+<form action="http://groups.google.com/group/ncbadminton/boxsubscribe" target="_blank"> <input type=text name=email> <input type=submit name="sub" value="Join"></form>
 
 The mailing list is usually the first place to hear about late-breaking community news (gym closings, tournament results for club members playing at national tournaments, etc). Official NCBC announcements that are posted on this site are also sent to this list.
 
