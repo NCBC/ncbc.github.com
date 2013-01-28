@@ -37,7 +37,7 @@ The mailing list is usually the first place to hear about late-breaking communit
 
 ## Vendors 
 
-Need some badminton supplies? Need some badminton supplies? These vendors will get you the gear you need.
+Need some badminton supplies? These vendors will get you the gear you need.
 
 - Local vendor: [Serve-N-Play](http://www.servenplay.com/snpecomm1/)
 <br /> <br />
