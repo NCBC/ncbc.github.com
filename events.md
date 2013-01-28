@@ -15,6 +15,16 @@ permalink: /events/
 - Registration deadline: Friday, February 1
 - For more information, head to the [event website](http://www.tennesseebadminton.com/events/tennessee-badminton-open-2013/) or [Facebook page](https://www.facebook.com/events/309728762461765/).
 
+### February 16-17: ClearOne Tournament
+- Location: ClearOne Badminton Centre, Orlando, FL
+- Events: MS/WS/MD/WD/XD (Levels A, B, C, D), and Unisex 80+ Doubles (can consist of 2 men, or 2 women, or 1 man and 1 woman, and 
+where the combined ages of the players are 80 or greater)
+- Schedule: Sat Feb 19, 9 AM start, singles and mixed doubles. Sun Feb 17, 9 AM start, all doubles and 80+ doubles events
+- Entry Fees: $30 for 1st event, $10 for each additional event, discounts available based on level
+- Registration: [Online](http://www.tournamentsoftware.com/onlineentry/onlineentry.aspx?id=F937D65A-5D7E-4DB9-873F-0B1F9078BDAE)
+- Registration deadline: Feb 9
+- For more information, visit the [event website](http://www.tournamentsoftware.com/sport/tournament.aspx?id=F937D65A-5D7E-4DB9-873F-0B1F9078BDAE)
+
 <hr />
 
 ## Future NCBC Events
