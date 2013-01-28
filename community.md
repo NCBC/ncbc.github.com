@@ -35,7 +35,7 @@ The mailing list is usually the first place to hear about late-breaking communit
 
 <hr />
 
-<h2><a id="vendors">Vendors</a></h2>  
+<h2><a id="vendors"></a>Vendors</h2>  
 
 Need some badminton supplies? These vendors will get you the gear you need.
 
