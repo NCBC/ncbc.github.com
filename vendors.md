@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Vendors
-permalink: Vendors
+permalink: /vendors/
 ---
 
 Need some badminton supplies? These vendors will get you the gear you need.
