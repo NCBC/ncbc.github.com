@@ -40,13 +40,13 @@ The mailing list is usually the first place to hear about late-breaking communit
 
 Need some badminton supplies? These vendors will get you the gear you need.
 
-* Local vendor: [Serve-N-Play](http://www.servenplay.com/snpecomm1/)
-* Online vendors:
-    * [Louisville Badminton Supply](http://www.angelfire.com/biz/lbs/current/)
-    * [San Diego Badminton Supply](http://www.badminton.net/cart/index.php)
-    * [Badminton Express](http://www.badmintonexpress.com/index.html)
-    * [Badminton Warehouse](http://www.badmintonwarehouse.com/)
-    * [Badminton Alley](http://www.badmintonalley.com/)
+- Local vendor: [Serve-N-Play](http://www.servenplay.com/snpecomm1/)
+- Online vendors:
+    - [Louisville Badminton Supply](http://www.angelfire.com/biz/lbs/current/)
+    - [San Diego Badminton Supply](http://www.badminton.net/cart/index.php)
+    - [Badminton Express](http://www.badmintonexpress.com/index.html)
+    - [Badminton Warehouse](http://www.badmintonwarehouse.com/)
+    - [Badminton Alley](http://www.badmintonalley.com/)
 
 <hr />
 
