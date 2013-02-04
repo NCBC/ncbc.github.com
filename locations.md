@@ -11,8 +11,8 @@ There are currently a number of locations for playing in the Triangle area:
 * 280 Towerview Court, Cary, NC 27513 ([map](https://maps.google.com/maps?q=280+Towerview+Court,+Cary,+NC+27513&hl=en&hnear=280+Towerview+Ct,+Cary,+Wake,+North+Carolina+27513&t=m&z=16))
 * Saturday: 7:00 PM - 10:00 PM
 * Sunday: 9:00 AM - 2:00 PM
-* **New Drop-in Cost**: $8 per visit
-* **New monthly membership available** (unlimited visits, no drop-in cost): $25 (individual), $40 (couple), $55 (family)
+* Drop-in Cost: $8 per visit
+* Monthly membership (unlimited visits, no drop-in cost): $25 (individual), $40 (couple), $55 (family plan covering 4 family members, $7 for each additional family member greater than 4)
 * Memberships available at S2S front desk
 <hr />
 
