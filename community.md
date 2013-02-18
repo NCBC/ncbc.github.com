@@ -8,21 +8,21 @@ permalink: /community/
 
 Due to multiple requests, NCBC will sponsor quality training for juniors who are interested in competitive play for the month of March. Only 12 spots are available for this opportunity and players will be selected from two try-out sessions in February. It is not required, but junior players should attend both try-out sessions if possible. Selected players and their parents are expected to be committed to the program for each of the four sessions in March.
 
-* All interested juniors are encouraged to attend the try-outs!
-* Bring your own racket
-* Shuttles for try-outs and training provided by NCBC
+- All interested juniors are encouraged to attend the try-outs!
+- Bring your own racket
+- Shuttles for try-outs and training provided by NCBC
 
-* Head Coach:  Hy Trang
-* Dates:  
-    * Try-out sessions: Feb. 17th & 24th
-    * Training sessions: March 3rd, 10th, 17th, 24th
-* Time:  Sundays   9:00am – 10:30am (set-up & warm-up 9:00 – 9:15; training 9:15 – 10:30)
-* Cost:  2 Try-out sessions – try-out sponsored by NCBC - Sport 2 Sport player fee still applies
-    * 4 Training sessions - $30 (covers coaching fee) due to NCBC by March 3rd per selected player
-    * Sport 2 Sport player fee still applies
-* Location: Sport 2 Sport
-    * 9:00 am – 10:30 am: 2 courts used for training; 3 courts available for open play
-    * 10:30 am – 2:00 pm:  All 5 courts available for open play
+- Head Coach:  Hy Trang
+- Dates:  
+    - Try-out sessions: Feb. 17th & 24th
+    - Training sessions: March 3rd, 10th, 17th, 24th
+- Time:  Sundays   9:00am – 10:30am (set-up & warm-up 9:00 – 9:15; training 9:15 – 10:30)
+- Cost:  2 Try-out sessions – try-out sponsored by NCBC - Sport 2 Sport player fee still applies
+    - 4 Training sessions - $30 (covers coaching fee) due to NCBC by March 3rd per selected player
+    - Sport 2 Sport player fee still applies
+- Location: Sport 2 Sport
+    - 9:00 am – 10:30 am: 2 courts used for training; 3 courts available for open play
+    - 10:30 am – 2:00 pm:  All 5 courts available for open play
 
 ## 2013 Badminton Ladder: Season 1 (January 12 - March 31)
 
