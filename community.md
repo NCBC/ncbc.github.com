@@ -11,18 +11,18 @@ Due to multiple requests, NCBC will sponsor quality training for juniors who are
 - All interested juniors are encouraged to attend the try-outs!
 - Bring your own racket
 - Shuttles for try-outs and training provided by NCBC
-
-- Head Coach:  Hy Trang
-- Dates:  
-    - Try-out sessions: Feb. 17th & 24th
-    - Training sessions: March 3rd, 10th, 17th, 24th
-- Time:  Sundays   9:00am – 10:30am (set-up & warm-up 9:00 – 9:15; training 9:15 – 10:30)
-- Cost:  2 Try-out sessions – try-out sponsored by NCBC - Sport 2 Sport player fee still applies
-    - 4 Training sessions - $30 (covers coaching fee) due to NCBC by March 3rd per selected player
-    - Sport 2 Sport player fee still applies
-- Location: Sport 2 Sport
-    - 9:00 am – 10:30 am: 2 courts used for training; 3 courts available for open play
-    - 10:30 am – 2:00 pm:  All 5 courts available for open play
+<br /><br />
+- Head Coach:  Hy Trang <br />
+- Dates: <br />
+    - Try-out sessions: Feb. 17th & 24th <br />
+    - Training sessions: March 3rd, 10th, 17th, 24th <br />
+- Time:  Sundays   9:00am – 10:30am (set-up & warm-up 9:00 – 9:15; training 9:15 – 10:30) <br />
+- Cost:  2 Try-out sessions – try-out sponsored by NCBC - Sport 2 Sport player fee still applies <br />
+    - 4 Training sessions - $30 (covers coaching fee) due to NCBC by March 3rd per selected player <br />
+    - Sport 2 Sport player fee still applies <br />
+- Location: Sport 2 Sport <br />
+    - 9:00 am – 10:30 am: 2 courts used for training; 3 courts available for open play <br />
+    - 10:30 am – 2:00 pm:  All 5 courts available for open play <br />
 
 ## 2013 Badminton Ladder: Season 1 (January 12 - March 31)
 
