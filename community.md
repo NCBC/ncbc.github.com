@@ -8,7 +8,7 @@ permalink: /community/
 
 Part of NCBC's mission is to provide training to badminton enthusiasts of all ages. Below are the training programs currently available:
 
-## Junior Competitive Player Training Opportunity!
+### Junior Competitive Player Training Opportunity!
 
 Due to multiple requests, NCBC will sponsor quality training for juniors who are interested in competitive play for the month of March. Only 12 spots are available for this opportunity and players will be selected from two try-out sessions in February. It is not required, but junior players should attend both try-out sessions if possible. Selected players and their parents are expected to be committed to the program for each of the four sessions in March.
 
