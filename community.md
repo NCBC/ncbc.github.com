@@ -4,6 +4,10 @@ title: Community
 permalink: /community/
 ---
 
+## Training
+
+Part of NCBC's mission is to provide training to badminton enthusiasts of all ages. Below are the training programs currently available:
+
 ## Junior Competitive Player Training Opportunity!
 
 Due to multiple requests, NCBC will sponsor quality training for juniors who are interested in competitive play for the month of March. Only 12 spots are available for this opportunity and players will be selected from two try-out sessions in February. It is not required, but junior players should attend both try-out sessions if possible. Selected players and their parents are expected to be committed to the program for each of the four sessions in March.
@@ -23,6 +27,16 @@ Due to multiple requests, NCBC will sponsor quality training for juniors who are
 - Location: Sport 2 Sport <br />
     - 9:00 am – 10:30 am: 2 courts used for training; 3 courts available for open play <br />
     - 10:30 am – 2:00 pm:  All 5 courts available for open play <br />
+
+<hr />
+
+## Mailing List
+
+The new [NC Badminton mailing list](http://groups.google.com/group/ncbadminton/) is the primary means of online communication for players. Looking for a doubles partner for an upcoming tournament, want someone to practice with, or just want to chat about badminton in North Carolina? Hop on the list and get in touch! Sign up via the [group website](http://groups.google.com/group/ncbadminton/) to interact using your Google account, or use the form on the [homepage](http://ncbadminton.org) to sign up with your e-mail address (no Google account required).
+
+The mailing list is usually the first place to hear about late-breaking community news (gym closings, tournament results for club members playing at national tournaments, etc). Official NCBC announcements that are posted on this site are also sent to this list.
+
+<hr />
 
 ## 2013 Badminton Ladder: Season 1 (January 12 - March 31)
 
@@ -47,13 +61,7 @@ Due to multiple requests, NCBC will sponsor quality training for juniors who are
 
 <hr />
 
-## Mailing List
 
-The new [NC Badminton mailing list](http://groups.google.com/group/ncbadminton/) is the primary means of online communication for players. Looking for a doubles partner for an upcoming tournament, want someone to practice with, or just want to chat about badminton in North Carolina? Hop on the list and get in touch! Sign up via the [group website](http://groups.google.com/group/ncbadminton/) to interact using your Google account, or use the form on the [homepage](http://ncbadminton.org) to sign up with your e-mail address (no Google account required).
-
-The mailing list is usually the first place to hear about late-breaking community news (gym closings, tournament results for club members playing at national tournaments, etc). Official NCBC announcements that are posted on this site are also sent to this list.
-
-<hr />
 
 ## Vendors 
 
@@ -70,11 +78,7 @@ Need some badminton supplies? These vendors will get you the gear you need.
 
 <hr />
 
-## Training
 
-Part of NCBC's mission is to provide training to badminton enthusiasts of all ages. Stay tuned for future training opportunities!
-
-<hr />
 
 ## Newsletter
 
