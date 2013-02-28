@@ -64,7 +64,7 @@ There are currently a number of locations for playing in the Triangle area:
 * 1 court available most Saturdays, call ahead to confirm: 919-660-6610
 <hr />
 
-**Lake Lynn Community Center (Begins 3/3/2013)** 
+**Lake Lynn Community Center (Begins 3/10/2013)** 
 
 * 7921 Ray Road, Raleigh, NC 27613 ([map](http://maps.google.com/maps?q=7921+Ray+Road,+Raleigh,+NC+27613&hl=en&hnear=7921+Ray+Rd,+Raleigh,+Wake,+North+Carolina+27613&t=m&z=16))
 * Tuesday: 6:00 PM - 9:00 PM 
