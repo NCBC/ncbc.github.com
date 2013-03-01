@@ -75,6 +75,7 @@ There are currently a number of locations for playing in the Triangle area:
 
 * 7921 Ray Road, Raleigh, NC 27613 ([map](http://maps.google.com/maps?q=7921+Ray+Road,+Raleigh,+NC+27613&hl=en&hnear=7921+Ray+Rd,+Raleigh,+Wake,+North+Carolina+27613&t=m&z=16))
 * Tuesday: 6:00 PM - 9:00 PM 
+* Friday: 6:00 PM - 9:00 PM (two courts only)
 * Sunday: 1:00 PM - 6:00 PM 
 * Cost: $5 per visit or $40 for a 10-visit pass
 * For more information, call 918-870-2991
