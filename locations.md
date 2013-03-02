@@ -44,7 +44,7 @@ There are currently a number of locations for playing in the Triangle area:
 **Bond Park Community Center** 
 
 * 150 Metro Park Drive Cary, NC 27513 ([map](http://maps.google.com/maps?q=150+Metro+Park+Drive+Cary,+NC+27513&hl=en&hnear=Metro+Park+Dr,+Cary,+Wake,+North+Carolina+27513&t=m&z=16))
-* Schedule changes frequently: Call (919) 462-3970 for the latest updates
+* Schedule changes frequently: Call (919) 462-3970 for the latest updates, or see the [online monthly schedule](http://www.townofcary.org/Assets/Parks$!2c+Recreation+and+Cultural+Resources+Department/Parks$!2c+Recreation+$!26+Cultural+Resources+Department+PDFs/Wellness/opengym.pdf)
 * Cost: $0-6 per visit depending on Cary residency, age, and quantity of pre-purchased passes. 
 * Note: Bond Park refuses entry to non-Cary residents after 25 players have signed into a session. If you are not a Cary resident, be sure to arrive at the start of a session to make sure you can sign in.
 <hr />
