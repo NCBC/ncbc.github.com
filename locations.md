@@ -49,6 +49,7 @@ There are currently a number of locations for playing in the Triangle area:
 * Sunday: 1:00 PM - 6:00 PM 
 * Cost: $5 per visit or $40 for a 10-visit pass
 * For more information, call 918-870-2991
+<hr />
 
 **Bond Park Community Center** 
 
@@ -78,6 +79,5 @@ There are currently a number of locations for playing in the Triangle area:
 
 * 3475 Erwin Road, Durham, NC 27705 ([map](http://maps.google.com/maps?q=3475+Erwin+Road,+Durham,+NC+27705&client=safari&oe=UTF-8&hnear=3475+Erwin+Rd,+Durham,+North+Carolina+27705&gl=us&t=m&z=16))
 * 1 court available most Saturdays, call ahead to confirm: 919-660-6610
-<hr />
 
 
