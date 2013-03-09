@@ -21,6 +21,7 @@ There are currently a number of locations for playing in the Triangle area:
 	* Kids Open Gym Membership: $30 per month <br />
 * Memberships available at S2S front desk
 * Please read and abide by the [additional Sport2Sport rules and regulations](http://ncbadminton.org/s2s)
+
 <hr />
 
 **Netsports** 
@@ -31,6 +32,7 @@ There are currently a number of locations for playing in the Triangle area:
 * Friday: 6:00 AM - 8:00 AM
 * Cost: $5
 * For more information, join the [Netsports mailing list](https://groups.google.com/forum/#!forum/badminton-is-passion)
+
 <hr />
 
 **Optimist Park** 
@@ -39,6 +41,7 @@ There are currently a number of locations for playing in the Triangle area:
 * Thursday: 10:30 AM - 12:30 PM 
 * Cost: Free
 * For more information, call 919-870-2880
+
 <hr />
 
 **Lake Lynn Community Center** 
@@ -49,6 +52,7 @@ There are currently a number of locations for playing in the Triangle area:
 * Sunday: 1:00 PM - 6:00 PM 
 * Cost: $5 per visit or $40 for a 10-visit pass
 * For more information, call 918-870-2991
+
 <hr />
 
 **Bond Park Community Center** 
@@ -57,6 +61,7 @@ There are currently a number of locations for playing in the Triangle area:
 * Schedule changes frequently: Call (919) 462-3970 for the latest updates, or see the [online monthly schedule](http://www.townofcary.org/Assets/Parks$!2c+Recreation+and+Cultural+Resources+Department/Parks$!2c+Recreation+$!26+Cultural+Resources+Department+PDFs/Wellness/opengym.pdf)
 * Cost: $0-6 per visit depending on Cary residency, age, and quantity of pre-purchased passes. 
 * Note: Bond Park refuses entry to non-Cary residents after 25 players have signed into a session. If you are not a Cary resident, be sure to arrive at the start of a session to make sure you can sign in.
+
 <hr />
 
 **UNC Badminton Club** 
@@ -65,6 +70,7 @@ There are currently a number of locations for playing in the Triangle area:
 * Schedule varies depending on gym availability. See the [UNC Badminton Club calendar](http://badminton.web.unc.edu/calendar/) for up-to-date scheduling 
 * Note: Membership requires affiliation with UNC, or the purchase of a [guest pass](http://campusrec.unc.edu/sites/campusrec.unc.edu/files/Guest%20Eligibility%20&%20Policies_0.pdf) 
 * For more information, head to the [UNC Badminton website](http://www.unc.edu/badminton/)
+
 <hr />
 
 **Duke Badminton Clubs**  
@@ -73,6 +79,7 @@ There are currently a number of locations for playing in the Triangle area:
 * International and Intramural clubs available 
 * Schedule: Call the Wilson Center front desk at 613-7489 or check the [online reservation system](http://recreation.duke.edu/facilities/make-a-reservation/) 
 * For more information, head to the [Duke Badminton website](http://people.ee.duke.edu/~qhliu/badminton.html)
+
 <hr />
 
 **Duke Center for Living**
