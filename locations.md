@@ -41,6 +41,15 @@ There are currently a number of locations for playing in the Triangle area:
 * For more information, call 919-870-2880
 <hr />
 
+**Lake Lynn Community Center** 
+
+* 7921 Ray Road, Raleigh, NC 27613 ([map](http://maps.google.com/maps?q=7921+Ray+Road,+Raleigh,+NC+27613&hl=en&hnear=7921+Ray+Rd,+Raleigh,+Wake,+North+Carolina+27613&t=m&z=16))
+* Tuesday: 6:00 PM - 9:00 PM 
+* Friday: 6:00 PM - 9:00 PM (two courts only)
+* Sunday: 1:00 PM - 6:00 PM 
+* Cost: $5 per visit or $40 for a 10-visit pass
+* For more information, call 918-870-2991
+
 **Bond Park Community Center** 
 
 * 150 Metro Park Drive Cary, NC 27513 ([map](http://maps.google.com/maps?q=150+Metro+Park+Drive+Cary,+NC+27513&hl=en&hnear=Metro+Park+Dr,+Cary,+Wake,+North+Carolina+27513&t=m&z=16))
@@ -71,11 +80,4 @@ There are currently a number of locations for playing in the Triangle area:
 * 1 court available most Saturdays, call ahead to confirm: 919-660-6610
 <hr />
 
-**Lake Lynn Community Center (Begins 3/10/2013)** 
 
-* 7921 Ray Road, Raleigh, NC 27613 ([map](http://maps.google.com/maps?q=7921+Ray+Road,+Raleigh,+NC+27613&hl=en&hnear=7921+Ray+Rd,+Raleigh,+Wake,+North+Carolina+27613&t=m&z=16))
-* Tuesday: 6:00 PM - 9:00 PM 
-* Friday: 6:00 PM - 9:00 PM (two courts only)
-* Sunday: 1:00 PM - 6:00 PM 
-* Cost: $5 per visit or $40 for a 10-visit pass
-* For more information, call 918-870-2991
