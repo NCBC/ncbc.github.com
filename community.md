@@ -44,7 +44,8 @@ Need some badminton supplies? These vendors will get you the gear you need.
 
 - Local vendors: <br />
     - [Serve-N-Play](http://www.servenplay.com/snpecomm1/) <br />
-    - [Paul Knechtel](&#x6d;&#x61;&#x69;&#000108;&#x74;&#x6f;&#58;&#000112;&#000110;&#107;&#000110;&#x65;&#x63;&#x68;&#000116;&#x65;&#x6c;&#x40;&#121;&#00097;&#000104;&#x6f;&#000111;&#x2e;&#00099;&#111;&#000109;) (Black Knight vendor) - 919-656-8326
+    - Paul Knechtel (Black Knight vendor): 
+<a href="&#x6d;&#x61;&#x69;&#000108;&#x74;&#x6f;&#58;&#000112;&#000110;&#107;&#000110;&#x65;&#x63;&#x68;&#000116;&#x65;&#x6c;&#x40;&#121;&#00097;&#000104;&#x6f;&#000111;&#x2e;&#00099;&#111;&#000109;?subject=&cc=&bcc=&body=" style="" class="" id="">&#000112;&#x6e;&#x6b;&#x6e;&#x65;&#99;&#000104;&#116;&#101;&#108;&#x40;&#x79;&#97;&#104;&#x6f;&#111;&#00046;&#99;&#x6f;&#x6d;</a> or 919-656-8326
 <br /> <br />
 - Online vendors: <br />
     - [Louisville Badminton Supply](http://www.angelfire.com/biz/lbs/current/) <br />
