@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sport 2 Sport rules and regulations
+title: Sport2Sport rules and regulations
 permalink: /s2s/
 ---
 
