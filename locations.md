@@ -31,7 +31,7 @@ There are currently a number of locations for playing in the Triangle area:
 * Tuesday: 6:00 AM - 8:00 AM 
 * Thursday: 6:00 AM - 8:00 AM 
 * Friday: 6:00 AM - 8:00 AM
-* Cost: $5
+* Cost: $5 per visit, $20 for 5 sessions, or $25 per month
 * For more information, join the [Netsports mailing list](https://groups.google.com/forum/#!forum/badminton-is-passion)
 
 <hr />
