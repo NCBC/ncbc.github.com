@@ -6,6 +6,26 @@ permalink: /locations/
 
 There are currently a number of locations for playing in the Triangle area:
 
+**Lake Lynn Community Center** 
+
+* 7921 Ray Road, Raleigh, NC 27613 ([map](http://maps.google.com/maps?q=7921+Ray+Road,+Raleigh,+NC+27613&hl=en&hnear=7921+Ray+Rd,+Raleigh,+Wake,+North+Carolina+27613&t=m&z=16))
+* Tuesday: 6:00 PM - 9:00 PM 
+* Friday: 6:00 PM - 9:00 PM
+* Sunday: 1:00 PM - 6:00 PM 
+* Cost: $5 per visit or $40 for a 10-visit pass
+* For more information, call 918-870-2991
+
+<hr />
+
+**Netsports** 
+
+* 3717 Davis Drive, Morrisville, NC 27560 ([map](http://maps.google.com/maps?q=3717+Davis+Drive,+Morrisville,+NC+27560&hl=en&hnear=3717+Davis+Dr,+Morrisville,+Wake,+North+Carolina+27560&t=m&z=16))
+* Tuesday - Friday: 6:00 AM - 9:00 AM 
+* Cost: $5 per visit, $20 for 5 sessions, or $25 per month
+* For more information, join the [Netsports mailing list](https://groups.google.com/forum/#!forum/badminton-is-passion)
+
+<hr />
+
 **Sport2Sport** (Next to O2 fitness) 
 
 * 280 Towerview Court, Cary, NC 27513 ([map](https://maps.google.com/maps?q=280+Towerview+Court,+Cary,+NC+27513&hl=en&hnear=280+Towerview+Ct,+Cary,+Wake,+North+Carolina+27513&t=m&z=16))
@@ -22,26 +42,6 @@ There are currently a number of locations for playing in the Triangle area:
 	* Kids Open Gym Membership: $30 per month <br />
 * Memberships available at S2S front desk
 * Please read and abide by the [additional Sport2Sport rules and regulations](http://ncbadminton.org/s2s)
-
-<hr />
-
-**Netsports** 
-
-* 3717 Davis Drive, Morrisville, NC 27560 ([map](http://maps.google.com/maps?q=3717+Davis+Drive,+Morrisville,+NC+27560&hl=en&hnear=3717+Davis+Dr,+Morrisville,+Wake,+North+Carolina+27560&t=m&z=16))
-* Tuesday - Friday: 6:00 AM - 9:00 AM 
-* Cost: $5 per visit, $20 for 5 sessions, or $25 per month
-* For more information, join the [Netsports mailing list](https://groups.google.com/forum/#!forum/badminton-is-passion)
-
-<hr />
-
-**Lake Lynn Community Center** 
-
-* 7921 Ray Road, Raleigh, NC 27613 ([map](http://maps.google.com/maps?q=7921+Ray+Road,+Raleigh,+NC+27613&hl=en&hnear=7921+Ray+Rd,+Raleigh,+Wake,+North+Carolina+27613&t=m&z=16))
-* Tuesday: 6:00 PM - 9:00 PM 
-* Friday: 6:00 PM - 9:00 PM
-* Sunday: 1:00 PM - 6:00 PM 
-* Cost: $5 per visit or $40 for a 10-visit pass
-* For more information, call 918-870-2991
 
 <hr />
 
