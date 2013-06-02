@@ -96,4 +96,9 @@ img {
 
 #footer {
 	font: 11px Verdana;
+	text-align: center;
+	color: #fff;
+}
+#footer a {
+	color: #fff;
 }
