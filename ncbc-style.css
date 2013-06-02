@@ -88,7 +88,12 @@ img {
 	padding-left: 6px;
 	font-size: 11px;
 	list-style-type: none;
+}
 
 .archive-date {
 
+}
+
+#footer {
+	font: 11px Verdana;
 }
