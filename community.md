@@ -30,7 +30,7 @@ Due to multiple requests, NCBC will sponsor quality training for juniors who are
 
 ### Private Training
 
-Community member Hy offers private lessons and personalized training to help develop your game and improve your skill. For inquires, e-mail Hy at <a href="&#x6d;&#x61;&#x69;&#000108;&#000116;&#000111;&#x3a;&#x6d;&#97;&#x69;&#000108;&#x74;&#000111;&#58;&#104;&#121;&#x74;&#x72;&#97;&#x6e;&#x67;&#00064;&#x79;&#x61;&#x68;&#000111;&#x6f;&#00046;&#99;&#111;&#x6d;?subject=&cc=&bcc=&body=" style="" class="" id="">&#000109;&#x61;&#x69;&#x6c;&#116;&#x6f;&#x3a;&#x68;&#x79;&#116;&#x72;&#x61;&#110;&#103;&#x40;&#x79;&#x61;&#x68;&#000111;&#x6f;&#x2e;&#00099;&#111;&#x6d;</a>
+Hy, one of our community members, offers private lessons and personalized training to help develop your game and improve your skill. For inquires, e-mail Hy at <a href="&#x6d;&#x61;&#x69;&#000108;&#000116;&#000111;&#x3a;&#x6d;&#97;&#x69;&#000108;&#x74;&#000111;&#58;&#104;&#121;&#x74;&#x72;&#97;&#x6e;&#x67;&#00064;&#x79;&#x61;&#x68;&#000111;&#x6f;&#00046;&#99;&#111;&#x6d;?subject=&cc=&bcc=&body=" style="" class="" id="">&#000109;&#x61;&#x69;&#x6c;&#116;&#x6f;&#x3a;&#x68;&#x79;&#116;&#x72;&#x61;&#110;&#103;&#x40;&#x79;&#x61;&#x68;&#000111;&#x6f;&#x2e;&#00099;&#111;&#x6d;</a>
 
 <hr />
 
