@@ -6,6 +6,12 @@ permalink: /events/
 
 ## Upcoming Regional Events
 
+### July 6, 2013: Georgia State Games
+- Location: Lucky Shoals Park, Norcross, Georgia
+- Events: Open singles/doubles/mixed doubles, singles/doubles for youth/novice, 40+/50+/60+
+- Registration deadline: July 1
+- For registration and more information, see [tournament website](http://www.georgiagames.org/badmin.html)
+
 ### May 21-25: 2013 USA Masters Badminton Championships
 - Location: (Southwest Florida Badminton Club)[http://www.swflbadminton.com/], Estero Community Park Recreation Center, 9200 Corkscrew Palms Blvd., Ft. Myers, FL  33928.
 - Registration: [Online](https://www.railstation.org/usabadminton/Tournyreg.aspx?TournyID=2144108446)
@@ -16,10 +22,6 @@ permalink: /events/
 <hr />
 
 ## Future NCBC Events
-
-### 7th Annual International Badminton Training Camp
-
-Take your training experience to the next level. Improve your technical skills, singles/doubles tactics, offensive/defensive skills, footwork, conditioning and competitive game play. Stay tuned for more info!
 
 ### 2013 NC Open
 
