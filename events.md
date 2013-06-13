@@ -12,13 +12,6 @@ permalink: /events/
 - Registration deadline: July 1
 - For registration and more information, see [tournament website](http://www.georgiagames.org/badmin.html)
 
-### May 21-25: 2013 USA Masters Badminton Championships
-- Location: (Southwest Florida Badminton Club)[http://www.swflbadminton.com/], Estero Community Park Recreation Center, 9200 Corkscrew Palms Blvd., Ft. Myers, FL  33928.
-- Registration: [Online](https://www.railstation.org/usabadminton/Tournyreg.aspx?TournyID=2144108446)
-- Age levels for brackets start at 35
-- Registration deadline: May 7
-- For more information see [tournament website](http://www.teamusa.org/USA-Badminton/Features/2013/April/03/2013-USA-Masters-Badminton-Championships-Reminder.aspx)
-
 <hr />
 
 ## Future NCBC Events
