@@ -17,12 +17,6 @@ The North Carolina Badminton Club (NCBC) is a nonprofit serving the greater Tria
 				<td width="30%"><b></b></td>
 			</tr>
 			<tr>
-				<td width="30%">Paul Knechtel</td>
-				<td width="40%"><a href="&#x6d;&#00097;&#000105;&#x6c;&#x74;&#000111;&#x3a;&#x70;&#x6e;&#x6b;&#x6e;&#000101;&#99;&#104;&#x74;&#x65;&#x6c;&#x40;&#x79;&#97;&#104;&#000111;&#x6f;&#46;&#x63;&#x6f;&#109;?subject=&cc=&bcc=&body=" style="" class="" id="">&#x70;&#110;&#x6b;&#110;&#x65;&#99;&#x68;&#x74;&#x65;&#108;&#x40;&#121;&#00097;&#x68;&#x6f;&#000111;&#x2e;&#x63;&#x6f;&#x6d;</a>
-</td>
-				<td width="30%"></td>
-			</tr>
-			<tr>
 				<td width="30%">Josie Spontak (Treasurer)</td>
 				<td width="40%"><a href="&#x6d;&#00097;&#x69;&#x6c;&#116;&#x6f;&#x3a;&#x70;&#00097;&#x72;&#97;&#118;&#101;&#x6c;&#00049;&#00051;&#x35;&#64;&#x61;&#x6f;&#000108;&#46;&#x63;&#x6f;&#x6d;?subject=&cc=&bcc=&body=" style="" class="" id="">&#x70;&#x61;&#114;&#00097;&#118;&#x65;&#x6c;&#x31;&#00051;&#x35;&#00064;&#00097;&#000111;&#x6c;&#00046;&#99;&#000111;&#x6d;</a></td>
 				<td width="30%"></td>
