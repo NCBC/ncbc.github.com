@@ -21,6 +21,8 @@ permalink: /events/
 - Registration deadline: July 5
 - For more information, visit the [event website](http://www.commonwealthgames.org/2013_Subway_Games/2013_Sports_Listing/Badminton.htm)
 
+test
+
 <hr />
 
 ## Future NCBC Events
