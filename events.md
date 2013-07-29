@@ -23,6 +23,8 @@ permalink: /events/
 
 test
 
+test
+
 <hr />
 
 ## Future NCBC Events
