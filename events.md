@@ -3,32 +3,27 @@ layout: page
 title: Events
 permalink: /events/
 ---
+## Upcoming NCBC Events
 
-## Upcoming Regional Events
+### 2013 NC Open (October 11-13, 2013)
 
-### July 6, 2013: Georgia State Games
-- Location: Lucky Shoals Park, Norcross, Georgia
-- Events: Open singles/doubles/mixed doubles, singles/doubles for youth/novice, 40+/50+/60+
-- Registration deadline: July 1
-- For registration and more information, see [tournament website](http://www.georgiagames.org/badmin.html)
-
-### July 20-21, 2013: Virginia Commonwealth Games
-- Location: Carter Athletic Center at North Cross School
-- Events: Open singles/doubles/mixed doubles, senior (40+) singles/doubles/mixed doubles, junior events
-- Format: Open & Consolation brackets in all events - any event with small entry may be round robin format. Rally scoring system will be used for all events. A fifteen minute default rule will be enforced. All entrants should be in the gym in time for their matches.
-- Schedule: Singles competition begins at 11 AM on Saturday, July 20. Expected order of play will be Singles to Finals and also Doubles events on Saturday. Competition will resume at 8:30 AM on Sunday, July 21.
-- Registration Fee: $35 per athlete, additional $5 fee for mail-in registrations
-- Registration deadline: July 5
-- For more information, visit the [event website](http://www.commonwealthgames.org/2013_Subway_Games/2013_Sports_Listing/Badminton.htm)
-
-test
-
-test
+North Carolina's premiere badminton tournament is back! More information coming soon. In the meantime, check out [results](http://ncbadminton.org/news/2012/09/nc-open-winners/) and [videos](http://ncbadminton.org/video/) from the 2012 NC Open.
 
 <hr />
 
-## Future NCBC Events
+## Upcoming Regional Events
 
-### 2013 NC Open
+### Southern Open (August 31 - September 1, 2013)
+- Location: ClearOne Badminton Centre, 4141 North John Young Parkway, Orlando, Florida <br>
+- Events: Open (A, B, C, and Novice levels), Senior (30+, 40+, 50+, 60+), Unisex Doubles (70+, 80+, 90+) Junior (U11, U18) <br>
+- Registration fee: $30 for first event, $20 for each additional event
+- Registration deadline: August 24. Register by August 20 and receive a free event dry-fit shirt. <br>
+- For registration and more information, see the [tournament website](http://www.tournamentsoftware.com/sport/tournament.aspx?id=C15380D0-1EAA-4FA5-B5C3-5EDE07175762) <br>
 
-North Carolina's premiere badminton tournament will return in 2013. In the meantime, check out [results](http://ncbadminton.org/news/2012/09/nc-open-winners/) and [videos](http://ncbadminton.org/video/) from the 2012 NC Open.
+### ECBC FZ Forza Open (August 31 - September 1, 2013)
+- Location: 60 Southlawn Court, Rockville, Maryland <br />
+- Events: Open, Senior (over 50), Under 15 <br />
+- Format: Open and Under 15 events use A/B/C/D drop down format (if you lose in your first round, you drop to "C." If you lose first round in "C," you drop to "D." If you lose in your second round of the "A" division, you drop to "B.") <br />
+- Registration fee: $30 for the first event, $25 for each additional events <br />
+- Registration deadline: August 28 <br />
+- For registration and more information, see the [tournament flier](http://www.eastcoastbadmintonclub.com/uploads/4/6/9/7/4697701/ecbc_fz_forza_open_open_2013_fillable_form_v1.pdf) <br />
