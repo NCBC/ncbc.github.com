@@ -7,7 +7,9 @@ permalink: /events/
 
 ### 2013 NC Open (October 11-13, 2013)
 
-North Carolina's premiere badminton tournament is back! More information coming soon. In the meantime, check out [results](http://ncbadminton.org/news/2012/09/nc-open-winners/) and [videos](http://ncbadminton.org/video/) from the 2012 NC Open.
+<p><a href="http://ncopen.org"><img src="http://ncbadminton.org/images/ncopen2013.png"></img></a></p>
+
+North Carolina's premier badminton tournament is back! Head to [NCOpen.org](http://ncopen.org) for information and registration details.
 
 <hr />
 

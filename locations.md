@@ -6,7 +6,7 @@ permalink: /locations/
 
 There are currently a number of locations for playing in the Triangle area:
 
-**Lake Lynn Community Center** 
+**Lake Lynn Community Center (open until October 27)** 
 
 * 7921 Ray Road, Raleigh, NC 27613 ([map](http://maps.google.com/maps?q=7921+Ray+Road,+Raleigh,+NC+27613&hl=en&hnear=7921+Ray+Rd,+Raleigh,+Wake,+North+Carolina+27613&t=m&z=16))
 * Tuesday: 6:00 PM - 9:00 PM 
@@ -21,7 +21,7 @@ There are currently a number of locations for playing in the Triangle area:
 
 * 3717 Davis Drive, Morrisville, NC 27560 ([map](http://maps.google.com/maps?q=3717+Davis+Drive,+Morrisville,+NC+27560&hl=en&hnear=3717+Davis+Dr,+Morrisville,+Wake,+North+Carolina+27560&t=m&z=16))
 * Tuesday - Friday: 6:00 AM - 8:00 AM (up to 10 AM if courts are available)
-* Cost: $5 per visit, $20 for 5 sessions, or $25 per month
+* Cost: $5 per visit or $25 per month
 * For more information, join the [Netsports mailing list](https://groups.google.com/forum/#!forum/badminton-is-passion)
 
 <hr />
@@ -30,7 +30,7 @@ There are currently a number of locations for playing in the Triangle area:
 
 * 280 Towerview Court, Cary, NC 27513 ([map](https://maps.google.com/maps?q=280+Towerview+Court,+Cary,+NC+27513&hl=en&hnear=280+Towerview+Ct,+Cary,+Wake,+North+Carolina+27513&t=m&z=16))
 * Training: Saturday 5:30 PM - 7:00 PM and Sunday 9:00 AM forward (on designated courts only)
-* Open Play: Tuesday 5:00 PM - 9:00 PM, Saturday 7:00 PM - 10:00 PM and Sunday 9:00 AM - 2:00 PM
+* Open Play: Saturday 7:00 PM - 10:00 PM and Sunday 9:00 AM - 2:00 PM
 * Drop-in Cost: $8 per visit
 * Monthly membership: <br />
 	* **Membership includes unlimited visits / no drop-in costs ONLY for weekend play (Tuesday play still requires drop-in cost)** <br />
