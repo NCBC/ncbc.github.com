@@ -4,7 +4,6 @@ title: Home
 ---
 
 <div id="main" class="grid_9">
-<p align="center"><strong>Did you attend or play in the 2013 Adidas NC Open? <a href="https://docs.google.com/forms/d/1yqgsI49Lko6aXtexSViE1how18edHMOmAHyAjUNY3LI/viewform">Take our survey and help make next year's event even better</a>! Survey closes after October 22.</strong></p>
 <h3 style="margin-top: 8px; margin-bottom: -10px; text-align: center;">Latest News:</h3>
 	<p>{% for post in site.posts limit:3 %}
 	<strong>{{ post.date | date: "%b %d" }}:</strong> <a href="{{ post.url }}">{{ post.title }}</a> <br />
