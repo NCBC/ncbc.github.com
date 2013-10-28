@@ -6,17 +6,6 @@ permalink: /locations/
 
 There are currently a number of locations for playing in the Triangle area:
 
-**Lake Lynn Community Center (open until October 27)** 
-
-* 7921 Ray Road, Raleigh, NC 27613 ([map](http://maps.google.com/maps?q=7921+Ray+Road,+Raleigh,+NC+27613&hl=en&hnear=7921+Ray+Rd,+Raleigh,+Wake,+North+Carolina+27613&t=m&z=16))
-* Tuesday: 6:00 PM - 9:00 PM 
-* Friday: 6:00 PM - 9:00 PM
-* Sunday: 1:00 PM - 6:00 PM 
-* Cost: $5 per visit or $40 for a 10-visit pass
-* For more information, call 918-870-2991
-
-<hr />
-
 **Netsports** 
 
 * 3717 Davis Drive, Morrisville, NC 27560 ([map](http://maps.google.com/maps?q=3717+Davis+Drive,+Morrisville,+NC+27560&hl=en&hnear=3717+Davis+Dr,+Morrisville,+Wake,+North+Carolina+27560&t=m&z=16))
@@ -86,4 +75,9 @@ There are currently a number of locations for playing in the Triangle area:
 * 3475 Erwin Road, Durham, NC 27705 ([map](http://maps.google.com/maps?q=3475+Erwin+Road,+Durham,+NC+27705&client=safari&oe=UTF-8&hnear=3475+Erwin+Rd,+Durham,+North+Carolina+27705&gl=us&t=m&z=16))
 * 1 court available most Saturdays, call ahead to confirm: 919-660-6610
 
+<hr />
 
+**Lake Lynn Community Center (no badminton during winter sports season)** 
+
+* 7921 Ray Road, Raleigh, NC 27613 ([map](http://maps.google.com/maps?q=7921+Ray+Road,+Raleigh,+NC+27613&hl=en&hnear=7921+Ray+Rd,+Raleigh,+Wake,+North+Carolina+27613&t=m&z=16))
+* For more information, call 918-870-2991
