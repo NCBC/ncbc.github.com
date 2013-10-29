@@ -8,26 +8,6 @@ permalink: /community/
 
 Part of NCBC's mission is to provide training to badminton enthusiasts of all ages. Below are the training programs currently available:
 
-### Junior Competitive Player Training Opportunity!
-
-Due to multiple requests, NCBC will sponsor quality training for juniors who are interested in competitive play for the month of March. Only 12 spots are available for this opportunity and players will be selected from two try-out sessions in February. It is not required, but junior players should attend both try-out sessions if possible. Selected players and their parents are expected to be committed to the program for each of the four sessions in March.
-
-- All interested juniors are encouraged to attend the try-outs!
-- Bring your own racket
-- Shuttles for try-outs and training provided by NCBC
-<br /><br />
-- Head Coach:  Hy Trang <br />
-- Dates: <br />
-    - Try-out sessions: Feb. 17th & 24th <br />
-    - Training sessions: March 3rd, 10th, 17th, 24th <br />
-- Time:  Sundays   9:00am – 10:30am (set-up & warm-up 9:00 – 9:15; training 9:15 – 10:30) <br />
-- Cost:  2 Try-out sessions – try-out sponsored by NCBC - Sport 2 Sport player fee still applies <br />
-    - 4 Training sessions - $30 (covers coaching fee) due to NCBC by March 3rd per selected player <br />
-    - Sport 2 Sport player fee still applies <br />
-- Location: Sport 2 Sport <br />
-    - 9:00 am – 10:30 am: 2 courts used for training; 3 courts available for open play <br />
-    - 10:30 am – 2:00 pm:  All 5 courts available for open play <br />
-
 ### Private Training
 
 Hy Trang, one of our community members, offers private lessons and personalized training to help develop your game and improve your skill. For inquires, e-mail Hy at <a href="&#x6d;&#97;&#x69;&#000108;&#x74;&#000111;&#58;&#104;&#121;&#x74;&#x72;&#97;&#x6e;&#x67;&#00064;&#x79;&#x61;&#x68;&#000111;&#x6f;&#00046;&#99;&#111;&#x6d;?subject=&cc=&bcc=&body=" style="" class="" id="">&#000109;&#x61;&#x69;&#x6c;&#116;&#x6f;&#x3a;&#x68;&#x79;&#116;&#x72;&#x61;&#110;&#103;&#x40;&#x79;&#x61;&#x68;&#000111;&#x6f;&#x2e;&#00099;&#111;&#x6d;</a>
@@ -52,6 +32,7 @@ Need some badminton supplies? These vendors will get you the gear you need.
 
 <br /> <br />
 - Online vendors: <br />
+    - [Budomart America (Adidas supplies)](http://budomartamerica.com) <br />
     - [Louisville Badminton Supply](http://www.angelfire.com/biz/lbs/current/) <br />
     - [San Diego Badminton Supply](http://www.badminton.net/cart/index.php) <br />
     - [Badminton Express](http://www.badmintonexpress.com/index.html) <br />
