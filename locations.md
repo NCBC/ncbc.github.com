@@ -6,10 +6,10 @@ permalink: /locations/
 
 There are currently a number of locations for playing in the Triangle area:
 
-**Netsports** 
+**Netsports (new schedule below starts November 1)** 
 
 * 3717 Davis Drive, Morrisville, NC 27560 ([map](http://maps.google.com/maps?q=3717+Davis+Drive,+Morrisville,+NC+27560&hl=en&hnear=3717+Davis+Dr,+Morrisville,+Wake,+North+Carolina+27560&t=m&z=16))
-* Tuesday - Friday: 6:00 AM - 2:00 PM
+* Monday - Friday: 6:00 AM - 9:00 AM
 * Cost: $5 per visit or $25 per month
 * For more information, join the [Netsports mailing list](https://groups.google.com/forum/#!forum/badminton-is-passion)
 

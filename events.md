@@ -5,6 +5,9 @@ permalink: /events/
 ---
 ## Upcoming Regional Events
 
+### November 8-9: Margaret Hewitt Memorial Charlotte Open 2013
+- For more information see the [event flyer](http://www.charlottebadminton.org/charlotte13/MargaretHewittMemorial2013CharlotteOpen.pdf)
+
 ### November 9: 2013 William and Mary Tournament
 - Location: College of William and Mary, Adair Hall, 251 Ukrop Way, Williamsburg, VA 23185 <br />
 - Events: Doubles only: MD/XD/WD <br />
