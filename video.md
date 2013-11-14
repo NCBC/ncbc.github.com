@@ -4,8 +4,7 @@ title: Video
 permalink: /video/
 ---
 
-
-NCBC is ramping up its multimedia efforts, and we're getting started by sharing the several matches from the NC Open finals below. Enjoy!
+<img src="http://ncbadminton.org/images/ncopen2013.png" />
 
 ## 2013 Adidas NC Open Finals
 ### Men's Singles Final
