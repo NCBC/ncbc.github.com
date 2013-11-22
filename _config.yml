@@ -10,3 +10,5 @@ email: "site@ncbadminton.org"
 # paginate: 8
 lsi: false
 permalink: /news/:year/:month/:title/
+
+markdown: rdiscount
