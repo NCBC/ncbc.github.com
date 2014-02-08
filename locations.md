@@ -15,25 +15,6 @@ There are currently a number of locations for playing in the Triangle area:
 
 <hr />
 
-**Sport2Sport** (Next to O2 fitness) 
-
-* 280 Towerview Court, Cary, NC 27513 ([map](https://maps.google.com/maps?q=280+Towerview+Court,+Cary,+NC+27513&hl=en&hnear=280+Towerview+Ct,+Cary,+Wake,+North+Carolina+27513&t=m&z=16))
-* Training: Saturday 5:30 PM - 7:00 PM and Sunday 9:00 AM forward (on designated courts only)
-* Open Play: Saturday 7:00 PM - 10:00 PM and Sunday 9:00 AM - 2:00 PM
-* Drop-in Cost: $8 per visit
-* Monthly membership: <br />
-	* **Membership includes unlimited visits / no drop-in costs ONLY for weekend play (Tuesday play still requires drop-in cost)** <br />
-	* Individual membership (age 18-55 years): $25 per month <br />
-	* Couple membership (two adults): $40 per month <br />
-	* Family membership (two adults & maximum two kids): $55 per month <br />
-	* Each additional child for the family membership: $7 per month <br />
-	* Training Program: Free with membership only <br />
-	* Kids Open Gym Membership: $30 per month <br />
-* Memberships available at S2S front desk
-* Please read and abide by the [additional Sport2Sport rules and regulations](http://ncbadminton.org/s2s)
-
-<hr />
-
 **Optimist Park** 
 
 * 5900 Whittier Drive, Raleigh, NC 27609 ([map](http://maps.google.com/maps?q=5900+Whittier+Drive,+Raleigh,+NC+27609&hl=en&hnear=5900+Whittier+Dr,+Raleigh,+Wake,+North+Carolina+27609&t=m&z=16))
