@@ -38,7 +38,7 @@ There are currently a number of locations for playing in the Triangle area:
 * Fetzer Gymnasium, UNC Chapel Hill ([map](http://maps.google.com/maps?q=fetzer+gymnasium,+unc+chapel+hill&hl=en&sll=35.784019,-78.825389&sspn=0.014796,0.017231&hnear=Fetzer+Gymnasium,+Chapel+Hill,+North+Carolina+27514&t=m&z=17))
 * Schedule varies depending on gym availability. See the [UNC Badminton Club calendar](http://badminton.web.unc.edu/calendar/) for up-to-date scheduling 
 * Note: Membership requires affiliation with UNC, or the purchase of a [guest pass](http://campusrec.unc.edu/sites/campusrec.unc.edu/files/Guest%20Eligibility%20&%20Policies_0.pdf) 
-* For more information, head to the [UNC Badminton website](http://www.unc.edu/badminton/)
+* For more information, head to the [UNC Badminton website](http://badminton.unc.edu/)
 
 <hr />
 
