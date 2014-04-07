@@ -29,8 +29,6 @@ The North Carolina Badminton Club (NCBC) is a nonprofit serving the greater Tria
 			</tr>
 </table>
 
-For comments or questions regarding the website please e-mail <a href="&#x6d;&#97;&#x69;&#108;&#116;&#x6f;&#x3a;&#x73;&#105;&#116;&#101;&#64;&#x6e;&#99;&#x62;&#x61;&#x64;&#x6d;&#105;&#110;&#116;&#x6f;&#x6e;&#46;&#x6f;&#114;&#103;?subject=&cc=&bcc=&body=" style="" class="" id="">&#000115;&#105;&#x74;&#x65;&#64;&#000110;&#99;&#x62;&#x61;&#x64;&#x6d;&#000105;&#x6e;&#x74;&#x6f;&#x6e;&#00046;&#000111;&#x72;&#000103;</a>
-
 # Regional/National Badminton Organizations 
 - [USA Badminton](http://www.teamusa.org/USA-Badminton.aspx)
 - [US Badminton Education Foundation](http://www.usbef.org)
