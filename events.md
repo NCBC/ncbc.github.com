@@ -4,7 +4,14 @@ title: Events
 permalink: /events/
 ---
 ## Upcoming Regional Events
+### Badminton NC
+- 5 day Junior Camp - July 14 - 18, 2014  Cost: $295 includes training, lunch and camp shirt
+- 5 day Adult Camp - July 14 - 18, 2014   Cost: $295 includes training, lunch and camp shirt
+- 2 day Adult Camp - July 19 & 20, 2014  Cost: $150 includes training, lunch and camp shirt
+- Camps discounted for Yearly Prepaid Members of Badminton NC
+- Drop by Badminton NC for details or email Lisa at lisa14q@gmail.com
 
+## Past Events
 ### December 14-15: Crews Badminton Winter Classic
 - Location: Crews Recreation Center, Matthews, NC
 - Format: Doubles-only tournament, double elimination bracket, separate Men's/Women's and Recreational/Competitive divisions. Matches are best of 3 with rally scoring to 15
