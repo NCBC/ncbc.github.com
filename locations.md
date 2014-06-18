@@ -6,6 +6,15 @@ permalink: /locations/
 
 There are currently a number of locations for playing in the Triangle area:
 
+**Badminton NC**
+* 9300 Globe Center Drive  Suite 116   Morrisville, NC  27560 (near RDU airport in Brier Creek)
+* Monday - Friday 6AM - 11PM      Sat - Sun 8AM - 11PM
+* Drop by for membership information and Opening Special rates
+* Morning play Monday - Friday  6am - 9am   Opening Special for month of June: $5 drop in or $25 for one month
+* 7 Olympic mat courts with badminton lighting and dark walls
+
+<hr />
+
 **Netsports** 
 
 * 3717 Davis Drive, Morrisville, NC 27560 ([map](http://maps.google.com/maps?q=3717+Davis+Drive,+Morrisville,+NC+27560&hl=en&hnear=3717+Davis+Dr,+Morrisville,+Wake,+North+Carolina+27560&t=m&z=16))
