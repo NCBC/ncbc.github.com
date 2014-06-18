@@ -13,6 +13,7 @@ There are currently a number of locations for playing in the Triangle area:
 * Drop by for membership information and 'Opening Special' rates
 * Morning play Mon-Fri 6-9AM ('Opening Special' for month of June: $5 drop in or $25 for one month)
 * 7 Olympic mat courts with badminton lighting and dark walls
+* Everyone welcome - all ages and skill levels!!!
 
 <hr />
 
