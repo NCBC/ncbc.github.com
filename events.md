@@ -19,7 +19,7 @@ permalink: /events/
 - Fees: $30 per team
 - For more information call 704-708-1287 or see the [tournament flyer](http://xa.yimg.com/kq/groups/23185203/1197223947/name/THE%20FIRST%20ANNUAL%20CREWS%20BADMINTON%20%20WINTER%20CLASSIC%2Edocx)
 
-### February 22-23, 2014: Tennessee Badminton Open 2014
+### February 22-23, 2014: Tennessee Badminton Open
 - Location: University of Tennessee at Knoxville
 - Format: Open and 40+ events: Single Elimination with consolation bracket for each event, Round Robin for events with less entries; BWF rally scoring 21 pts, best of 3.
 - Registration deadline: February 16, 2014
