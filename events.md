@@ -11,7 +11,6 @@ permalink: /events/
 - Camps discounted for Yearly Prepaid Members of Badminton NC
 - Drop by Badminton NC for details or email Lisa at lisa14q@gmail.com
 
-
 ## Past Events
 ### December 14-15, 2013: Crews Badminton Winter Classic
 - Location: Crews Recreation Center, Matthews, NC
