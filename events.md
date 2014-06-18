@@ -4,7 +4,7 @@ title: Events
 permalink: /events/
 ---
 ## Upcoming Regional Events
-### Badminton NC
+### Badminton NC - 9300 Globe Center Drive #116, Morrisville, NC 27560
 - 5 day Junior Camp - July 14 - 18, 2014  Cost: $295 includes training, lunch and camp shirt
 - 5 day Adult Camp - July 14 - 18, 2014   Cost: $295 includes training, lunch and camp shirt
 - 2 day Adult Camp - July 19 & 20, 2014  Cost: $150 includes training, lunch and camp shirt
