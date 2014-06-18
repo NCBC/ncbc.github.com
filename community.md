@@ -10,9 +10,9 @@ Part of NCBC's mission is to provide training to badminton enthusiasts of all ag
 
 ### Private Training
 
-Badminton NC offers training with Olympic Coach Dennis Christensen with a Yearly Prepaid Membership.  Group lessons and private lessons are available.
+* Badminton NC offers training with Olympic Coach Dennis Christensen with a Yearly Prepaid Membership.  Group lessons and private lessons are available.
 
-Hy Trang, one of our community members, offers private lessons and personalized training to help develop your game and improve your skill. For inquires, e-mail Hy at <a href="&#x6d;&#97;&#x69;&#000108;&#x74;&#000111;&#58;&#104;&#121;&#x74;&#x72;&#97;&#x6e;&#x67;&#00064;&#x79;&#x61;&#x68;&#000111;&#x6f;&#00046;&#99;&#111;&#x6d;?subject=&cc=&bcc=&body=" style="" class="" id="">&#000109;&#x61;&#x69;&#x6c;&#116;&#x6f;&#x3a;&#x68;&#x79;&#116;&#x72;&#x61;&#110;&#103;&#x40;&#x79;&#x61;&#x68;&#000111;&#x6f;&#x2e;&#00099;&#111;&#x6d;</a>
+* Hy Trang, one of our community members, offers private lessons and personalized training to help develop your game and improve your skill. For inquires, e-mail Hy at <a href="&#x6d;&#97;&#x69;&#000108;&#x74;&#000111;&#58;&#104;&#121;&#x74;&#x72;&#97;&#x6e;&#x67;&#00064;&#x79;&#x61;&#x68;&#000111;&#x6f;&#00046;&#99;&#111;&#x6d;?subject=&cc=&bcc=&body=" style="" class="" id="">&#000109;&#x61;&#x69;&#x6c;&#116;&#x6f;&#x3a;&#x68;&#x79;&#116;&#x72;&#x61;&#110;&#103;&#x40;&#x79;&#x61;&#x68;&#000111;&#x6f;&#x2e;&#00099;&#111;&#x6d;</a>
 
 <hr />
 
@@ -32,7 +32,7 @@ Need some badminton supplies? These vendors will get you the gear you need.
     - [Serve-N-Play](http://www.servenplay.com/snpecomm1/) <br />
     - Paul Knechtel ([Black Knight](http://www.blackknight.ca) vendor): <a href="&#x6d;&#x61;&#x69;&#000108;&#x74;&#x6f;&#58;&#000112;&#000110;&#107;&#000110;&#x65;&#x63;&#x68;&#000116;&#x65;&#x6c;&#x40;&#121;&#00097;&#000104;&#x6f;&#000111;&#x2e;&#00099;&#111;&#000109;?subject=&cc=&bcc=&body=" style="" class="" id="">&#000112;&#x6e;&#x6b;&#x6e;&#x65;&#99;&#000104;&#116;&#101;&#108;&#x40;&#x79;&#97;&#104;&#x6f;&#111;&#00046;&#99;&#x6f;&#x6d;</a> or 919-656-8326
 
-<br /> <br />
+<br />
 - Online vendors: <br />
     - [Budomart America (Adidas supplies)](http://budomartamerica.com) <br />
     - [Louisville Badminton Supply](http://www.angelfire.com/biz/lbs/current/) <br />
